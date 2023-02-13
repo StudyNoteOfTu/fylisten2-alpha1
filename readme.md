@@ -25,7 +25,7 @@ allprojects {
 
 ```css
 dependencies {
-    implementation 'com.github.StudyNoteOfTu:fylisten2:Tag'
+    implementation 'com.github.StudyNoteOfTu:fylisten2-alpha1:v1.0.0-alpha1'
 }
 ```
 
